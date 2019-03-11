@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1414368192 source:c:\users\edson\documents\programas\3 semestre\mccluskey\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<math.h>
+	<sstream>
+
+1412559646 source:f:\mccluskey\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1412647400 source:e:\mccluskey\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1414189188 source:c:\users\edson\desktop\mccluskey\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<math.h>
+	<sstream>
+
+1415931799 source:e:\edson\universidad\3 semestre\programas\mccluskey\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<math.h>
+	<sstream>
+
